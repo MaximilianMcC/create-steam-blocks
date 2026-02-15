@@ -1,0 +1,8 @@
+{
+	"guard_whistle": {
+		"subtitle": "sounds.steamblocks.guard_whistle",
+		"sounds": [
+			"steamblocks:guard_whistle"
+		]
+	}
+}

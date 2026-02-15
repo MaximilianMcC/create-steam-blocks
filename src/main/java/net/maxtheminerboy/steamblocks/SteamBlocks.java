@@ -6,6 +6,7 @@ import com.mojang.logging.LogUtils;
 
 import net.maxtheminerboy.steamblocks.block.ModBlocks;
 import net.maxtheminerboy.steamblocks.item.ModItems;
+import net.maxtheminerboy.steamblocks.sound.ModSounds;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -38,6 +39,7 @@ public class SteamBlocks {
 
 		ModItems.register(modEventBus);
 		ModBlocks.register(modEventBus);
+		ModSounds.register(modEventBus);
 
 		// Register the item to a creative tab
 		modEventBus.addListener(this::addCreative);

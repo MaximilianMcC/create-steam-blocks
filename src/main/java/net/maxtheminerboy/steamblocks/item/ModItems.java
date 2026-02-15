@@ -10,7 +10,10 @@ public class ModItems {
 	
 	public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(SteamBlocks.MOD_ID);
 
-	public static final DeferredItem<Item> GUARD_WHISTLE = ITEMS.register("guard_whistle", ()  -> new Item(new Item.Properties()));
+	public static final DeferredItem<Item> GUARD_WHISTLE = ITEMS.register("guard_whistle", () -> new GuardWhistleItem(new Item.Properties()
+		.stacksTo(1)
+		
+	));
 
 	public static void register(IEventBus eventBus) {
 		ITEMS.register(eventBus);
