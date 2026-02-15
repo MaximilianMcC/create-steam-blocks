@@ -11,8 +11,10 @@ import net.minecraft.world.level.Level;
 
 public class GuardWhistleItem extends Item {
 
-	public GuardWhistleItem(Properties properties) {
-		super(properties);
+	public GuardWhistleItem() {
+		super(new Item.Properties()
+			.stacksTo(1)
+		);
 	}
 
 	@Override

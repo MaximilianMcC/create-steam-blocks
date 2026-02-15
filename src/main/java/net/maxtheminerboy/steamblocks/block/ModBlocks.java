@@ -24,6 +24,8 @@ public class ModBlocks {
 		)
 	);
 
+	public static final DeferredBlock<Block> BLACK_DOME = registerBlock("black_dome", () -> new DomeBlock());
+
 	private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
 
 		DeferredBlock<T> newBlock = BLOCKS.register(name, block);

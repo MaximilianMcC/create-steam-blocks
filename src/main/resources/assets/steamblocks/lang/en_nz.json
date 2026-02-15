@@ -1,5 +1,8 @@
 {
 	"item.steamblocks.guard_whistle": "Guard's Whistle",
+	"sounds.steamblocks.guard_whistle": "Guard's whistle blows",
+
+	"block.steamblocks.black_dome": "Black Dome",
 
 	"block.steamblocks.test_block": "Test"
 }
