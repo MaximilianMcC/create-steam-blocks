@@ -1,3 +1,5 @@
 {
-	"item.steamblocks.guard_whistle": "Guard's Whistle"
+	"item.steamblocks.guard_whistle": "Guard's Whistle",
+
+	"block.steamblocks.test_block": "Test"
 }

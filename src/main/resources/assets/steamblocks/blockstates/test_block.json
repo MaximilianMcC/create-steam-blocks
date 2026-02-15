@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "steamblocks:block/test_block"
+		}
+	}
+}
