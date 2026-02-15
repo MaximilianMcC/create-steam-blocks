@@ -6,17 +6,17 @@
       "request": "launch",
       "name": "Client",
       "presentation": {
-        "group": "Mod Development - steamblocks-template-1.21.1",
+        "group": "Mod Development - steamblocks",
         "order": 0
       },
-      "projectName": "steamblocks-template-1.21.1",
+      "projectName": "steamblocks",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\clientRunProgramArgs.txt"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\clientRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\clientRunVmArgs.txt",
-        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\bin\\main"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -28,17 +28,17 @@
       "request": "launch",
       "name": "Data",
       "presentation": {
-        "group": "Mod Development - steamblocks-template-1.21.1",
+        "group": "Mod Development - steamblocks",
         "order": 1
       },
-      "projectName": "steamblocks-template-1.21.1",
+      "projectName": "steamblocks",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\dataRunProgramArgs.txt"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\dataRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\dataRunVmArgs.txt",
-        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\bin\\main"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -50,17 +50,17 @@
       "request": "launch",
       "name": "GameTestServer",
       "presentation": {
-        "group": "Mod Development - steamblocks-template-1.21.1",
+        "group": "Mod Development - steamblocks",
         "order": 2
       },
-      "projectName": "steamblocks-template-1.21.1",
+      "projectName": "steamblocks",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\gameTestServerRunProgramArgs.txt"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\gameTestServerRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\gameTestServerRunVmArgs.txt",
-        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\bin\\main"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -72,17 +72,17 @@
       "request": "launch",
       "name": "Server",
       "presentation": {
-        "group": "Mod Development - steamblocks-template-1.21.1",
+        "group": "Mod Development - steamblocks",
         "order": 3
       },
-      "projectName": "steamblocks-template-1.21.1",
+      "projectName": "steamblocks",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\serverRunProgramArgs.txt"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\serverRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\build\\moddev\\serverRunVmArgs.txt",
-        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks-template-1.21.1\\bin\\main"
+        "@D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\build\\moddev\\serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003dsteamblocks%%D:\\code\\java\\Minecraft\\neoforge\\steamblocks\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},

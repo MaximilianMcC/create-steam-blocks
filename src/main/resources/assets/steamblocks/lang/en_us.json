@@ -1,3 +1,13 @@
 {
-	"item.steamblocks.guard_whistle": "Conductors's Whistle"
+  "itemGroup.steamblocks": "Example Mod Tab",
+  "block.steamblocks.example_block": "Example Block",
+  "item.steamblocks.example_item": "Example Item",
+
+  "steamblocks.configuration.title": "Steam Blocks Configs",
+  "steamblocks.configuration.section.steamblocks.common.toml": "Steam Blocks Configs",
+  "steamblocks.configuration.section.steamblocks.common.toml.title": "Steam Blocks Configs",
+  "steamblocks.configuration.items": "Item List",
+  "steamblocks.configuration.logDirtBlock": "Log Dirt Block",
+  "steamblocks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "steamblocks.configuration.magicNumber": "Magic Number"
 }
